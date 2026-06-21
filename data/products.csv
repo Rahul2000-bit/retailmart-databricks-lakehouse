@@ -1,0 +1,16 @@
+product_id,product_name,category,sub_category,brand,price,cost_price,stock_qty,supplier_id,launch_date
+P101,Laptop Pro 15,Electronics,Computers,TechBrand,75000,55000,50,S01,2022-01-10
+P102,Wireless Mouse,Electronics,Accessories,ClickMaster,1500,800,200,S01,2022-02-15
+P103,Office Chair Ergonomic,Furniture,Seating,ComfortZone,12000,7000,30,S02,2022-03-20
+P104,Notebook Pack 5,Stationery,Writing,PaperCo,250,100,500,S03,2022-01-05
+P105,Coffee Maker Deluxe,Appliances,Kitchen,BrewKing,4500,2500,75,S04,2022-04-10
+P106,Standing Desk Pro,Furniture,Desks,ComfortZone,25000,15000,20,S02,2022-05-18
+P107,Noise Cancel Headphones,Electronics,Audio,SoundMax,8000,4500,100,S01,2022-06-22
+P108,Premium Pen Set,Stationery,Writing,PaperCo,150,60,1000,S03,2022-02-28
+P109,Water Purifier RO,Appliances,Kitchen,AquaPure,15000,9000,40,S04,2022-07-14
+P110,Smartphone X12,Electronics,Phones,TechBrand,55000,38000,60,S01,2022-08-30
+P111,Bluetooth Speaker,Electronics,Audio,SoundMax,3500,1800,150,S01,2022-09-10
+P112,Study Table,Furniture,Desks,ComfortZone,8000,4500,45,S02,2022-10-05
+P113,Whiteboard A2,Stationery,Office,PaperCo,2000,900,80,S03,2022-11-12
+P114,Air Fryer,Appliances,Kitchen,BrewKing,6500,3800,55,S04,2022-12-20
+P115,Mechanical Keyboard,Electronics,Accessories,ClickMaster,4500,2200,90,S01,2023-01-15

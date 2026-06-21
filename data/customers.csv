@@ -1,0 +1,21 @@
+customer_id,name,email,phone,city,state,pincode,signup_date,segment
+1001,Ravi Kumar,ravi.kumar@email.com,9876543210,Mumbai,Maharashtra,400001,2022-03-15,Premium
+1002,Priya Sharma,priya.sharma@email.com,9845012345,Delhi,Delhi,110001,2022-05-20,Regular
+1003,Arjun Nair,arjun.nair@email.com,9731234567,Bangalore,Karnataka,560001,2022-07-10,Premium
+1004,Sneha Patel,sneha.patel@email.com,9624567890,Ahmedabad,Gujarat,380001,2022-08-05,Regular
+1005,Kiran Reddy,kiran.reddy@email.com,9512345678,Hyderabad,Telangana,500001,2022-09-18,Premium
+1006,Meena Iyer,meena.iyer@email.com,9498765432,Chennai,Tamil Nadu,600001,2022-10-22,Regular
+1007,Rohit Singh,rohit.singh@email.com,9387654321,Pune,Maharashtra,411001,2022-11-30,Regular
+1008,Anjali Das,anjali.das@email.com,9276543210,Kolkata,West Bengal,700001,2023-01-14,Premium
+1009,Vikram Joshi,vikram.joshi@email.com,9165432109,Jaipur,Rajasthan,302001,2023-02-09,Regular
+1010,Deepa Menon,deepa.menon@email.com,9054321098,Kochi,Kerala,682001,2023-03-25,Premium
+1011,Amit Verma,amit.verma@email.com,8943210987,Lucknow,Uttar Pradesh,226001,2023-04-11,Regular
+1012,Kavya Rao,kavya.rao@email.com,8832109876,Coimbatore,Tamil Nadu,641001,2023-05-19,Regular
+1013,Suresh Pillai,suresh.pillai@email.com,8721098765,Thiruvananthapuram,Kerala,695001,2023-06-07,Premium
+1014,Nisha Gupta,nisha.gupta@email.com,8610987654,Bhopal,Madhya Pradesh,462001,2023-07-23,Regular
+1015,Manoj Tiwari,manoj.tiwari@email.com,8509876543,Patna,Bihar,800001,2023-08-30,Regular
+1016,Lakshmi Naidu,lakshmi.naidu@email.com,8398765432,Visakhapatnam,Andhra Pradesh,530001,2023-09-15,Premium
+1017,Rajesh Mishra,rajesh.mishra@email.com,8287654321,Varanasi,Uttar Pradesh,221001,2023-10-20,Regular
+1018,Pooja Desai,pooja.desai@email.com,8176543210,Surat,Gujarat,395001,2023-11-05,Regular
+1019,Harish Nambiar,harish.nambiar@email.com,8065432109,Mangalore,Karnataka,575001,2023-12-12,Premium
+1020,Divya Krishnan,divya.krishnan@email.com,7954321098,Madurai,Tamil Nadu,625001,2024-01-08,Regular
