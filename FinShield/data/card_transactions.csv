@@ -1,0 +1,16 @@
+card_txn_id,account_id,card_number_masked,card_type,merchant_id,merchant_name,transaction_date,transaction_time,amount,currency,transaction_country,status,decline_reason,is_international,pos_entry_mode
+CRD001,ACC001,XXXX-XXXX-XXXX-1234,Debit,M001,Amazon India,2024-01-05,11:00:00,2500.00,INR,India,Approved,,false,CHIP
+CRD002,ACC003,XXXX-XXXX-XXXX-2345,Credit,M003,Swiggy,2024-01-06,12:30:00,850.00,INR,India,Approved,,false,CONTACTLESS
+CRD003,ACC005,XXXX-XXXX-XXXX-3456,Debit,M006,Petrol Station,2024-01-07,08:00:00,3500.00,INR,India,Approved,,false,SWIPE
+CRD004,ACC007,XXXX-XXXX-XXXX-4567,Credit,M007,Casino Royale,2024-01-08,23:00:00,50000.00,INR,India,Approved,,false,CHIP,High Risk Merchant
+CRD005,ACC009,XXXX-XXXX-XXXX-5678,Debit,M009,MakeMyTrip,2024-01-09,10:00:00,25000.00,INR,India,Approved,,false,CHIP
+CRD006,ACC001,XXXX-XXXX-XXXX-1234,Debit,,Unknown,2024-01-10,02:00:00,15000.00,USD,USA,Approved,,true,SWIPE
+CRD007,ACC011,XXXX-XXXX-XXXX-6789,Credit,M014,Crypto Exchange,2024-01-11,14:00:00,75000.00,INR,India,Approved,,false,CHIP
+CRD008,ACC012,XXXX-XXXX-XXXX-7890,Debit,M005,BigBasket,2024-01-12,09:30:00,2200.00,INR,India,Approved,,false,CONTACTLESS
+CRD009,ACC013,XXXX-XXXX-XXXX-8901,Credit,M013,Netflix,2024-01-13,10:00:00,649.00,INR,India,Approved,,false,CHIP
+CRD010,ACC014,XXXX-XXXX-XXXX-9012,Debit,M004,Zomato,2024-01-14,13:00:00,450.00,INR,India,Approved,,false,CONTACTLESS
+CRD011,ACC015,XXXX-XXXX-XXXX-0123,Credit,M002,Flipkart,2024-01-15,15:00:00,5999.00,INR,India,Approved,,false,CHIP
+CRD012,ACC001,XXXX-XXXX-XXXX-1234,Debit,M001,Amazon India,2024-01-16,11:30:00,NULL,INR,India,Declined,Invalid Amount,false,CHIP
+CRD013,ACC016,XXXX-XXXX-XXXX-1235,Debit,M012,Shell Petrol,2024-01-17,08:30:00,4500.00,INR,India,Approved,,false,SWIPE
+CRD014,ACC017,XXXX-XXXX-XXXX-2346,Credit,M011,Apollo Pharmacy,2024-01-18,14:30:00,1200.00,INR,India,Approved,,false,CHIP
+CRD015,ACC018,XXXX-XXXX-XXXX-3457,Debit,M015,Local Store,2024-01-19,16:00:00,800.00,INR,India,Approved,,false,SWIPE

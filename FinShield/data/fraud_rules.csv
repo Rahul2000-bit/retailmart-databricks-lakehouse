@@ -1,0 +1,11 @@
+rule_id,rule_name,rule_description,condition,threshold_amount,time_window_hours,action,severity,is_active
+FR001,Large Night Transfer,Transaction above threshold between 11PM-5AM,AMOUNT > threshold AND HOUR BETWEEN 23 AND 5,500000,1,Flag,High,true
+FR002,Multiple ATM Same Day,More than 3 ATM withdrawals in same day,ATM_COUNT > 3 IN 24H,0,24,Block,High,true
+FR003,International Card Usage,Card used internationally without travel notice,IS_INTERNATIONAL = true,0,0,Flag,Medium,true
+FR004,Crypto Transaction,Any transaction to crypto exchanges,MERCHANT_CATEGORY = Cryptocurrency,10000,0,Flag,High,true
+FR005,Rapid Successive Transactions,More than 5 transactions in 1 hour,TXN_COUNT > 5 IN 1H,0,1,Flag,Medium,true
+FR006,Dormant Account Activity,Transaction on dormant account,ACCOUNT_STATUS = Dormant,0,0,Flag,Medium,true
+FR007,Blacklisted Merchant,Transaction with blacklisted merchant,MERCHANT_BLACKLISTED = true,0,0,Block,Critical,true
+FR008,Velocity Check,Total debit exceeds threshold in 24 hours,TOTAL_DEBIT > threshold IN 24H,1000000,24,Flag,High,true
+FR009,Foreign Currency Mismatch,Transaction in foreign currency on domestic account,CURRENCY != INR AND ACCOUNT_TYPE = Domestic,0,0,Flag,Medium,true
+FR010,Orphan Transaction,Transaction on non-existent account,ACCOUNT_NOT_FOUND = true,0,0,Block,Critical,true

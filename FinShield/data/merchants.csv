@@ -1,0 +1,16 @@
+merchant_id,merchant_name,merchant_category,merchant_category_code,city,state,country,registration_number,gst_number,contact_email,risk_level,is_active
+M001,Amazon India,E-Commerce,5999,Bangalore,Karnataka,India,REG001,GST001,support@amazon.in,Low,true
+M002,Flipkart,E-Commerce,5999,Bangalore,Karnataka,India,REG002,GST002,support@flipkart.com,Low,true
+M003,Swiggy,Food Delivery,5812,Bangalore,Karnataka,India,REG003,GST003,support@swiggy.com,Low,true
+M004,Zomato,Food Delivery,5812,Gurgaon,Haryana,India,REG004,GST004,support@zomato.com,Low,true
+M005,BigBasket,Grocery,5411,Bangalore,Karnataka,India,REG005,GST005,support@bigbasket.com,Low,true
+M006,Petrol Station XYZ,Fuel,5541,Mumbai,Maharashtra,India,REG006,GST006,xyz.petrol@email.com,Medium,true
+M007,Casino Royale,Gambling,7995,Goa,Goa,India,REG007,,casino@royale.com,High,true
+M008,Unknown Merchant,Miscellaneous,9999,Unknown,Unknown,India,,,unknown@merchant.com,High,false
+M009,MakeMyTrip,Travel,4722,Gurgaon,Haryana,India,REG009,GST009,support@makemytrip.com,Low,true
+M010,IRCTC,Travel,4722,New Delhi,Delhi,India,REG010,GST010,support@irctc.co.in,Low,true
+M011,Apollo Pharmacy,Healthcare,5912,Chennai,Tamil Nadu,India,REG011,GST011,support@apollo.com,Low,true
+M012,Shell Petrol,Fuel,5541,Mumbai,Maharashtra,India,REG012,GST012,shell@india.com,Medium,true
+M013,Netflix India,Entertainment,7841,Mumbai,Maharashtra,India,REG013,GST013,support@netflix.com,Low,true
+M014,Crypto Exchange ABC,Cryptocurrency,6051,Mumbai,Maharashtra,India,REG014,,crypto@abc.com,High,true
+M015,Local Kirana Store,Grocery,5411,Delhi,Delhi,India,REG015,GST015,kirana@local.com,Low,true

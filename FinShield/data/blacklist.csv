@@ -1,0 +1,11 @@
+blacklist_id,entity_type,entity_id,entity_name,reason,blacklisted_date,blacklisted_by,is_active,remarks
+BL001,Account,ACC999,Unknown Entity,Fraud,2023-01-15,Risk Team,true,Multiple fraud reports
+BL002,Merchant,M007,Casino Royale,High Risk Gambling,2022-06-20,Compliance Team,true,Regulatory violation
+BL003,Merchant,M008,Unknown Merchant,Unregistered,2023-03-10,Risk Team,true,No GST registration
+BL004,Merchant,M014,Crypto Exchange ABC,Cryptocurrency,2023-08-05,Compliance Team,true,RBI guidelines violation
+BL005,Customer,C999,Ghost Customer,Identity Fraud,2023-11-20,Risk Team,true,Fake identity
+BL006,IFSC,UNKN0005555,Unknown Bank,Invalid IFSC,2023-05-15,Operations Team,true,Non-existent bank
+BL007,IFSC,UNKN0007777,Unknown Bank 2,Invalid IFSC,2023-05-15,Operations Team,true,Non-existent bank
+BL008,IPAddress,89.44.55.66,Suspicious IP,Known Fraud IP,2023-09-01,Security Team,true,Multiple fraud attempts
+BL009,IPAddress,45.33.22.11,Suspicious IP 2,Known Fraud IP,2023-10-15,Security Team,true,Phishing attempts
+BL010,Account,ACC020,Frozen Account,Money Laundering,2024-01-01,Risk Team,true,Under investigation

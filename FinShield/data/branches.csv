@@ -1,0 +1,11 @@
+branch_id,branch_name,branch_code,city,state,address,pincode,ifsc_prefix,manager_name,contact_number,email,opening_date,branch_type
+BR001,Mumbai Main Branch,MUM001,Mumbai,Maharashtra,"123 Nariman Point",400021,HDFC0001234,Suresh Iyer,02222334455,mumbai.main@finshield.com,2010-01-15,Main
+BR002,Delhi Connaught Branch,DEL001,Delhi,Delhi,"45 Connaught Place",110001,ICIC0002345,Priya Mehta,01123445566,delhi.cp@finshield.com,2011-03-20,Main
+BR003,Bangalore MG Road,BLR001,Bangalore,Karnataka,"78 MG Road",560001,SBIN0003456,Arjun Shetty,08023456789,blr.mg@finshield.com,2012-06-10,Main
+BR004,Ahmedabad CG Road,AMD001,Ahmedabad,Gujarat,"12 CG Road",380001,AXIX0004567,Sneha Patel,07923456780,amd.cg@finshield.com,2013-11-05,Regular
+BR005,Hyderabad Banjara,HYD001,Hyderabad,Telangana,"56 Banjara Hills",500034,HDFC0005678,Kiran Reddy,04023456781,hyd.bh@finshield.com,2014-08-18,Main
+BR006,Chennai Anna Salai,CHN001,Chennai,Tamil Nadu,"89 Anna Salai",600002,ICIC0006789,Meena Iyer,04423456782,chn.as@finshield.com,2015-01-22,Main
+BR007,Pune FC Road,PUN001,Pune,Maharashtra,"34 FC Road",411004,SBIN0007890,Rohit Singh,02023456783,pun.fc@finshield.com,2016-07-30,Regular
+BR008,Kolkata Park Street,KOL001,Kolkata,West Bengal,"67 Park Street",700016,AXIX0008901,Anjali Das,03323456784,kol.ps@finshield.com,2017-03-14,Regular
+BR009,Jaipur MI Road,JAI001,Jaipur,Rajasthan,"23 MI Road",302001,HDFC0009012,Vikram Joshi,01423456785,jai.mi@finshield.com,2018-09-09,Regular
+BR010,Kochi MG Road,KOC001,Kochi,Kerala,"45 MG Road",682001,ICIC0010123,Deepa Menon,04843456786,koc.mg@finshield.com,2019-12-25,Regular

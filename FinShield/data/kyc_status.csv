@@ -1,0 +1,27 @@
+kyc_id,customer_id,kyc_type,document_type,document_number,verification_date,verified_by,kyc_status,expiry_date,remarks
+KYC001,C001,Full KYC,PAN Card,ABCPK1234D,2020-01-10,Branch Officer,Verified,2025-01-10,
+KYC002,C001,Full KYC,Aadhar,123456789012,2020-01-10,Branch Officer,Verified,2030-01-10,
+KYC003,C002,Full KYC,PAN Card,XYZPS5678E,2019-03-15,Online,Verified,2024-03-15,Expiring Soon
+KYC004,C003,Partial KYC,PAN Card,LMNPN9012F,2021-06-05,Branch Officer,Pending,2026-06-05,Documents incomplete
+KYC005,C004,Full KYC,PAN Card,PQRSP3456G,2018-11-01,Branch Officer,Verified,2023-11-01,Expired
+KYC006,C005,Full KYC,PAN Card,ABCKR7890H,2020-08-15,Online,Verified,2025-08-15,
+KYC007,C006,Full KYC,Aadhar,567890123456,2022-01-20,Branch Officer,Verified,2032-01-20,
+KYC008,C007,Full KYC,PAN Card,GHIRS6789J,2017-07-25,Branch Officer,Verified,2022-07-25,Expired
+KYC009,C008,Full KYC,Aadhar,789012345678,2021-03-10,Online,Verified,2031-03-10,
+KYC010,C009,Partial KYC,PAN Card,MNOPJ5678L,2019-09-05,Branch Officer,Pending,2024-09-05,Missing Aadhar
+KYC011,C010,Full KYC,PAN Card,PQRDM9012M,2020-12-20,Online,Verified,2025-12-20,
+KYC012,C011,Full KYC,Aadhar,901234567890,2018-04-08,Branch Officer,Verified,2028-04-08,
+KYC013,C012,Full KYC,PAN Card,VWXKR7890O,2022-06-15,Online,Verified,2027-06-15,
+KYC014,C013,Full KYC,PAN Card,YZASP2345P,2016-02-03,Branch Officer,Verified,2021-02-03,Expired
+KYC015,C014,Partial KYC,PAN Card,BCENG6789Q,2023-01-20,Online,Pending,2028-01-20,Income proof pending
+KYC016,C015,Full KYC,Aadhar,345678901235,2017-10-25,Branch Officer,Verified,2027-10-25,
+KYC017,C016,Full KYC,PAN Card,GHILN5678S,2020-05-12,Online,Verified,2025-05-12,
+KYC018,C017,Full KYC,Aadhar,567890123457,2019-08-18,Branch Officer,Verified,2029-08-18,
+KYC019,C018,Partial KYC,PAN Card,MNOPD3456U,2023-03-02,Online,Pending,2028-03-02,Address proof pending
+KYC020,C019,Full KYC,PAN Card,PQRHN7890V,2015-07-10,Branch Officer,Verified,2020-07-10,Expired
+KYC021,C020,Partial KYC,PAN Card,STXDK2345W,2023-05-05,Online,Pending,2028-05-05,Incomplete documents
+KYC022,C021,Full KYC,PAN Card,VWYSM6789X,2014-11-12,Branch Officer,Verified,2019-11-12,Expired
+KYC023,C022,Full KYC,Aadhar,012345678902,2018-09-20,Online,Verified,2028-09-20,
+KYC024,C023,Full KYC,PAN Card,BCDDS5678Z,2021-12-08,Branch Officer,Verified,2026-12-08,
+KYC025,C024,Full KYC,PAN Card,EFGAB9012A,2019-06-15,Online,Verified,2024-06-15,Expiring Soon
+KYC026,C025,Partial KYC,PAN Card,HIJVK3456B,2022-08-22,Branch Officer,Pending,2027-08-22,Verification pending

@@ -1,0 +1,16 @@
+atm_txn_id,account_id,atm_id,atm_location,city,state,transaction_date,transaction_time,amount,currency,transaction_type,status,card_number_masked,failure_reason
+ATM001,ACC001,ATM101,Nariman Point,Mumbai,Maharashtra,2024-01-05,08:30:00,10000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-1234,
+ATM002,ACC003,ATM102,Connaught Place,Delhi,Delhi,2024-01-06,09:15:00,5000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-2345,
+ATM003,ACC005,ATM103,MG Road,Bangalore,Karnataka,2024-01-07,10:00:00,20000.00,INR,Withdrawal,Failed,XXXX-XXXX-XXXX-3456,Insufficient Balance
+ATM004,ACC007,ATM104,CG Road,Ahmedabad,Gujarat,2024-01-08,11:30:00,15000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-4567,
+ATM005,ACC001,ATM105,Banjara Hills,Hyderabad,Telangana,2024-01-08,11:45:00,10000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-1234,Multiple Same Day
+ATM006,ACC001,ATM106,Anna Salai,Chennai,Tamil Nadu,2024-01-08,12:00:00,10000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-1234,Multiple Same Day
+ATM007,ACC009,ATM107,FC Road,Pune,Maharashtra,2024-01-09,14:00:00,25000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-5678,
+ATM008,ACC010,ATM108,Park Street,Kolkata,West Bengal,2024-01-10,15:30:00,8000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-6789,
+ATM009,ACC011,ATM109,MI Road,Jaipur,Rajasthan,2024-01-11,16:45:00,12000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-7890,
+ATM010,ACC012,ATM110,MG Road,Kochi,Kerala,2024-01-12,08:00:00,NULL,INR,Withdrawal,Failed,XXXX-XXXX-XXXX-8901,Card Error
+ATM011,ACC999,ATM101,Nariman Point,Mumbai,Maharashtra,2024-01-13,09:30:00,5000.00,INR,Withdrawal,Failed,XXXX-XXXX-XXXX-9999,Invalid Account
+ATM012,ACC014,ATM102,Connaught Place,Delhi,Delhi,2024-01-14,10:45:00,3000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-0123,
+ATM013,ACC015,ATM103,MG Road,Bangalore,Karnataka,2024-01-15,23:30:00,20000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-1235,Late Night
+ATM014,ACC016,ATM104,CG Road,Ahmedabad,Gujarat,2024-01-16,12:00:00,10000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-2346,
+ATM015,ACC017,ATM105,Banjara Hills,Hyderabad,Telangana,2024-01-17,13:15:00,2000.00,INR,Withdrawal,Success,XXXX-XXXX-XXXX-3457,

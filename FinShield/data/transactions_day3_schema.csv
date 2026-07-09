@@ -1,0 +1,11 @@
+transaction_id,account_id,transaction_type,amount,currency,transaction_date,transaction_time,description,merchant_id,channel,reference_number,status,balance_after,remarks,device_type
+TXN051,ACC001,Debit,3500.00,INR,2024-04-17,09:00:00,Online Shopping,M001,NET_BANKING,REF051,Success,135500.50,,Mobile
+TXN052,ACC003,Credit,25000.00,INR,2024-04-17,10:15:00,Salary Credit,,NEFT,REF052,Success,81500.75,,Web
+TXN053,ACC005,Debit,1200.00,INR,2024-04-17,11:30:00,Food Order,M004,UPI,REF053,Success,318000.00,,Mobile
+TXN054,ACC007,Debit,50000.00,INR,2024-04-17,23:30:00,Night Transfer,,NEFT,REF054,Success,2650000.00,Suspicious Night,Web
+TXN055,ACC009,Debit,800.00,INR,2024-04-17,13:00:00,Grocery,M005,DEBIT_CARD,REF055,Success,76200.75,,POS
+TXN056,ACC011,Debit,15000.00,INR,2024-04-17,14:30:00,Travel Booking,M009,NET_BANKING,REF056,Success,62000.75,,Web
+TXN057,ACC012,Credit,10000.00,INR,2024-04-17,15:45:00,Transfer,,IMPS,REF057,Success,185000.00,,Mobile
+TXN058,ACC014,Debit,500.00,INR,2024-04-17,16:00:00,Food,M004,UPI,REF058,Success,7500.50,,Mobile
+TXN059,ACC016,Debit,NULL,INR,2024-04-17,17:00:00,NULL Amount,,NET_BANKING,REF059,Failed,,Null Amount,Web
+TXN060,ACC002,Debit,800000.00,USD,2024-04-17,02:00:00,Foreign Night Transfer,,SWIFT,REF060,Success,924500.00,High Risk,ATM

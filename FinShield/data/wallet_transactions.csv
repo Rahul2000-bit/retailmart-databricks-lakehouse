@@ -1,0 +1,11 @@
+wallet_txn_id,account_id,wallet_provider,wallet_transaction_id,upi_vpa,transaction_date,transaction_time,amount,currency,transaction_type,merchant_id,status,device_type
+WLT001,ACC001,PhonePe,PHN123456,rahul@ybl,2024-04-18,09:00:00,500.00,INR,Debit,M003,Success,Mobile
+WLT002,ACC003,GooglePay,GPY234567,arjun@okaxis,2024-04-18,10:15:00,1200.00,INR,Debit,M005,Success,Mobile
+WLT003,ACC005,Paytm,PTM345678,kiran@paytm,2024-04-18,11:30:00,800.00,INR,Debit,M004,Success,Mobile
+WLT004,ACC007,PhonePe,PHN456789,rohit@ybl,2024-04-18,12:45:00,2500.00,INR,Debit,M001,Success,Web
+WLT005,ACC009,GooglePay,GPY567890,vikram@okicici,2024-04-18,13:00:00,NULL,INR,Debit,M002,Failed,Mobile
+WLT006,ACC011,Paytm,PTM678901,amit@paytm,2024-04-18,14:15:00,3500.00,INR,Debit,M009,Success,Mobile
+WLT007,ACC012,PhonePe,PHN789012,kavya@ybl,2024-04-18,15:30:00,650.00,INR,Debit,M004,Success,Mobile
+WLT008,ACC001,GooglePay,GPY890123,rahul@okaxis,2024-04-18,02:30:00,750000.00,INR,Debit,,Success,Mobile
+WLT009,ACC014,Paytm,PTM901234,nisha@paytm,2024-04-18,17:00:00,450.00,INR,Debit,M003,Success,Mobile
+WLT010,ACC016,PhonePe,PHN012345,lakshmi@ybl,2024-04-18,18:15:00,1800.00,INR,Debit,M011,Success,Mobile
